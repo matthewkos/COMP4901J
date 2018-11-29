@@ -1,0 +1,1 @@
+activate GPU && jupyter notebook --notebook-dir="D:\Cloud\OneDrive - HKUST Connect\HKUST\!\COMP\COMP4901J - Deep Learning for Computer Vision\Assignment\assignment4"
